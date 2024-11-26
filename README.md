@@ -13,11 +13,12 @@ These are combined and use the following files
  - p1b1train.py
  - p1b1test.py
  - config
+ - 
 Only p1b1main needs to ever be run (without arguments) and only config needs to be altered
 Config parameters (I will skip obvious ones, like hyperparams):
 - modelfile, parentdir, trainingdir, testingdir
-  these only exist as a leftover from Asad's original script. They should not be altered and should probably be removed and baked into the scripts.
+  - these only exist as a leftover from Asad's original script. They should not be altered and should probably be removed and baked into the scripts.
 -seed
-  mostly obvious, but I made a function that sets random, np, and torch seeds in one go, altered with this config
+  - mostly obvious, but I made a function that sets random, np, and torch seeds in one go, altered with this config
 - train/testsampling
   
