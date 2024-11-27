@@ -101,7 +101,7 @@ Run p3main.py
 - Will train an embedder using ae3 and save it in the WikiArtAE created in p2.
 - Will create ./autoencoders/ae3/transfermodel1, and inside this dir: comparison1 (10 images to the left and each image's style transfered reconstruction to the right, will be very bad with the toy sample), metadata, StyleEmbeddingTransfer (model: an embedder, encoder, decoder)
 
-Further runs of p2 without changing config will create ae4 etc., but further runs of p3 will still select ae3. 
+Further runs of p2 without changing config will create ae4 etc., but further runs of p3 will still select ae3. Note that models are not included in the repository.
 
 
 
