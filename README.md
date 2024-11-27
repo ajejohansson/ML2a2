@@ -1,7 +1,7 @@
 # ML2a2
 Andreas Johansson submission for LT2326, assignment 2
 
-See very bottom for simple instructions running instructions.
+See very bottom for simple running instructions.
 
 General note: I generate files/directories in several places, and I use a rudimentary system to deal with multiple of the same kinds of files/dirs in the same location. The scripts will generate e.g. "comparison1", then "comparison2", etc, or "ae1", "ae2" etc. The system checks for example how many "comparison" files are at the location, and then tries to create comparison+str(comparison count+1). So if a dir has files "comparison1", "comparison2", and comparison 1 is deleted, comparison 2 must be renamed to comparison1, or the system would try to generate comparison2, which would already exist.
 
