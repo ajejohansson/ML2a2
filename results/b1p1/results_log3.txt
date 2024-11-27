@@ -1,0 +1,36 @@
+Config:
+{'modelfile': 'wikiart.pth', 'parentdir': '/scratch/lt2326-2926-h24/wikiart', 'trainingdir': 'train', 'testingdir': 'test', 'trainsampling': 500, 'testsampling': False, 'device': 'cuda:3', 'epochs': 10, 'batch_size': 32, 'learning_rate': 0.001, 'dropout': 0.2, 'seed': 1, 'filelog': True}
+
+In epoch 0, loss = 608.542724609375
+Accuracy: 0.1349206417798996
+
+In epoch 1, loss = 162.84494018554688
+Accuracy: 0.16349206864833832
+
+In epoch 2, loss = 109.34107971191406
+Accuracy: 0.18571428954601288
+
+In epoch 3, loss = 122.46073913574219
+Accuracy: 0.12380952388048172
+
+In epoch 4, loss = 72.0269546508789
+Accuracy: 0.12222222238779068
+
+In epoch 5, loss = 117.8877944946289
+Accuracy: 0.15079365670681
+
+In epoch 6, loss = 56.71076583862305
+Accuracy: 0.18095238506793976
+
+In epoch 7, loss = 62.408836364746094
+Accuracy: 0.15396825969219208
+
+In epoch 8, loss = 42.72966766357422
+Accuracy: 0.12539683282375336
+
+In epoch 9, loss = 81.60456085205078
+Accuracy: 0.13174603879451752
+
+Final accuracy:
+Accuracy: 0.13174603879451752
+

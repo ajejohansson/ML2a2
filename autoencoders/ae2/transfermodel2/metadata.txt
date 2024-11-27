@@ -1,0 +1,4 @@
+epochs: 10
+content weight: 1
+style layers: [3]
+style weight: 3000000

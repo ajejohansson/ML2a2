@@ -1,0 +1,10 @@
+epochs: 20
+batch_size: 16
+learning_rate: 0.001
+seed: 1
+latent_dim_specifier: 208
+latent_dim_manual: True
+activation_function: relu
+img_size_modifier: 0.25
+num_image_samples: 10
+checkpoint_at_epoch: 12

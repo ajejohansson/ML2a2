@@ -1,0 +1,15 @@
+{
+    "modelfile": "wikiart.pth",
+    "parentdir": "/scratch/lt2326-2926-h24/wikiart",
+    "trainingdir": "train",
+    "testingdir": "test",
+    "trainsampling": false,
+    "testsampling" : false,
+    "device": "cuda:1",
+    "epochs": 2,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "dropout": 0.2,
+    "seed": 1,
+    "filelog": false
+}

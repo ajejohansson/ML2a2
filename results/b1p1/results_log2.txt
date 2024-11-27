@@ -1,0 +1,66 @@
+Config:
+{'modelfile': 'wikiart.pth', 'parentdir': '/scratch/lt2326-2926-h24/wikiart', 'trainingdir': 'train', 'testingdir': 'test', 'trainsampling': False, 'testsampling': False, 'device': 'cuda:3', 'epochs': 20, 'batch_size': 32, 'learning_rate': 0.001, 'dropout': 0.2, 'seed': 1, 'filelog': True}
+
+In epoch 0, loss = 1344.557861328125
+Accuracy: 0.17619048058986664
+
+In epoch 1, loss = 572.2805786132812
+Accuracy: 0.1428571492433548
+
+In epoch 2, loss = 343.0557556152344
+Accuracy: 0.20158730447292328
+
+In epoch 3, loss = 270.431640625
+Accuracy: 0.1349206417798996
+
+In epoch 4, loss = 226.93296813964844
+Accuracy: 0.18730159103870392
+
+In epoch 5, loss = 202.22988891601562
+Accuracy: 0.16825397312641144
+
+In epoch 6, loss = 168.63587951660156
+Accuracy: 0.17301587760448456
+
+In epoch 7, loss = 177.32504272460938
+Accuracy: 0.16825397312641144
+
+In epoch 8, loss = 194.606689453125
+Accuracy: 0.1825396865606308
+
+In epoch 9, loss = 107.71774291992188
+Accuracy: 0.12222222238779068
+
+In epoch 10, loss = 138.9580535888672
+Accuracy: 0.20000000298023224
+
+In epoch 11, loss = 139.0819091796875
+Accuracy: 0.1984127014875412
+
+In epoch 12, loss = 116.87519836425781
+Accuracy: 0.1587301641702652
+
+In epoch 13, loss = 106.02777862548828
+Accuracy: 0.15079365670681
+
+In epoch 14, loss = 119.74442291259766
+Accuracy: 0.1984127014875412
+
+In epoch 15, loss = 118.20938110351562
+Accuracy: 0.18412698805332184
+
+In epoch 16, loss = 95.10057067871094
+Accuracy: 0.20000000298023224
+
+In epoch 17, loss = 137.65724182128906
+Accuracy: 0.17142857611179352
+
+In epoch 18, loss = 97.3743667602539
+Accuracy: 0.17619048058986664
+
+In epoch 19, loss = 145.09109497070312
+Accuracy: 0.18095238506793976
+
+Final accuracy:
+Accuracy: 0.18095238506793976
+
